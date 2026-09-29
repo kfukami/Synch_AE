@@ -1,2 +1,11 @@
-# Synch_AE
-An example code of Ushida et al. (in Review)
+# Synchronization-theoretic autoencoder
+
+Example code for a synchronization-theoretic autoencoder by Ushida, Beppu, Kato, and Fukami.
+
+# Authors
+Authors: Yuta Ushida, Daiki Beppu, [Yuzuru Kato](https://sites.google.com/fun.ac.jp/yuzuru-kato/home) and [Kai Fukami](https://www.kaif.mech.tohoku.ac.jp/)
+
+Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
+
+# Reference
+Yuta Ushida, Daiki Beppu, Yuzuru Kato, and Kai Fukami, “Studying oscillation death in two-dimensional cylinder-airfoil interactions with synchronization-theoretic autoencoder," in Review.
